@@ -1,13 +1,6 @@
 Flexible DataSync Chat Demo
 ==============
 
-## Presentation
-
-* Create an account
-* Login/logout
-* Chat in a general room
-* Get a private room with another user
-
 ## Setup
 
 * Create an account on [Flexible Datasync](http://io.datasync.orange.com)
