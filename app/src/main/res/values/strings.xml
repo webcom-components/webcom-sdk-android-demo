@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlexibleDataSyncChat</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

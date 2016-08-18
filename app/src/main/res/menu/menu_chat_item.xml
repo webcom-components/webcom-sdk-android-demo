@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ChatActivity">
+        <item android:id="@+id/action_message_remove" android:title="Remove message" />
+        <item android:id="@+id/action_message_random" android:title="Change message text" />
+        <item android:id="@+id/action_message_user" android:title="Change message user" />
+</menu>

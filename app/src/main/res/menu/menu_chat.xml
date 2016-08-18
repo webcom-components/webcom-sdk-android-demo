@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/action_log_clean" android:title="Clean chat log"/>
+        <item android:id="@+id/action_log_populate" android:title="Populate chat log" />
+        <item android:id="@+id/action_user_create" android:title="Create user" />
+        <item android:id="@+id/action_user_change" android:title="Change user" />
+        <item android:id="@+id/action_user_delete" android:title="Delete user" />
+        <item android:id="@+id/action_about" android:title="About" />
+</menu>
