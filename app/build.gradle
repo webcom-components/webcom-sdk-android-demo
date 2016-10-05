@@ -36,6 +36,10 @@ android {
             buildConfigField 'String', 'LOG_LEVEL', LOG_ERROR
         }
     }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+    }
 }
 
 dependencies {
